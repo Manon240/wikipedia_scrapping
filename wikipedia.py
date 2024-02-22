@@ -8,7 +8,7 @@ from multiprocessing import Pool, cpu_count
 import time
 
 # Définition des fonctions
-#Cousin Manon
+
 
 def parseURL(mon_url):
     # Ouvrir avec openurl mon_url
